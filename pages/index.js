@@ -73,11 +73,11 @@ export default function Home() {
             <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
               Greg McCarvell is a real estate broker in London Ontario providing award winning buyer and seller services since 2005.
             </p>
-            <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/Pco00INXVeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div className="mt-5 max-w mx-auto sm:flex sm:justify-center md:mt-8">
+              <iframe width="800" height="400" src="https://www.youtube.com/embed/Pco00INXVeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              415 Saul St. London is a 2 storey, 3 bedroom home in East London. Priced at $349,900 and updated throughout.
+              SOLD!!! 415 Saul St. London is a 2 storey, 3 bedroom home in East London. Priced at $349,900 and updated throughout.
               Take a look and contact me if you are interested in viewing it in person.
             </p>
             <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
